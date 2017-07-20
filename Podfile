@@ -6,6 +6,7 @@ target 'Hairiest' do
   use_frameworks!
 
   # Pods for Hairiest
- pod 'Firebase/Core'
-
+pod 'Firebase/Core'
+pod ‘Firebase/Database’
+pod ‘Firebase/Auth’
 end
